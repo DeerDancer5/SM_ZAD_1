@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_city">Brytyjski zespół Oasis wywodzi się z Manchesteru</string>
+    <string name="q_guitarist">Liam Gallagher był gitarzystą Oasis</string>
+    <string name="q_noel">Noel Gallagher należal do zespołu od początku jego istnienia</string>
+    <string name="q_single">Pierwszym singlem zespołu jest Supersonic, wydany w kwietniu 1994r.</string>
+    <string name="q_studio">Debiutancki album Oasis - "Definitely Maybe" został nagrany w Rockfield Studios, w południowej Walii</string>
+
+    <string name="correct_answer">Odpowiedź poprawna</string>
+    <string name="incorrect_answer">Odpowiedź niepoprawna</string>
+</resources>
